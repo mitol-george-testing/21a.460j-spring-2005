@@ -1,0 +1,46 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Health and Medicine",
+      "Public Health"
+    ],
+    [
+      "Humanities",
+      "Religion"
+    ],
+    [
+      "Society",
+      "The Developing World"
+    ],
+    [
+      "Humanities",
+      "History",
+      "African History"
+    ],
+    [
+      "Social Science",
+      "Anthropology",
+      "Cultural Anthropology"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "87033dcc-afcc-a2b3-74d4-87abae8d9f54"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Medicine, Religion and Politics in Africa and the African Diaspora",
+  "course_description": "This course provides an exploration of colonial and postcolonial clashes between theories of healing and embodiment in the African world and those of western bio-medicine. It examines how Afro-Atlantic religious traditions have challenged western conceptions of illness, healing, and the body and have also offered alternative notions of morality, rationality, kinship, gender, and sexuality. It also analyzes whether contemporary western bio-medical interventions reinforce colonial or imperial power in the effort to promote global health in Africa and the African diaspora.\n",
+  "department_numbers": [
+    "21A",
+    "WGS"
+  ],
+  "extra_course_numbers": "WGS.620J",
+  "primary_course_number": "21A.460J",
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Written Assignments"
+  ],
+  "title": "Course Metadata"
+}
